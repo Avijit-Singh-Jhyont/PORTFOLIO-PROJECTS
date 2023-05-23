@@ -13,7 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="CategoriesAPI" options="-parameters" />
+      <module name="CategoriesAPI" options="" />
       <module name="myTictactoe" options="-parameters" />
     </option>
   </component>
